@@ -482,6 +482,6 @@
         <item>35</item>
     </integer-array>
     <!-- Sets the package name for device parts-->
-    <string name="config_device_parts_package_name" translatable="false">com.redmi.xiaomiparts</string>
-    <string name="config_device_parts_package_activity" translatable="false">com.redmi.xiaomiparts.DeviceSettingsActivity</string>
+    <string name="config_device_parts_package_name" translatable="false">com.dsmartapps.root.kerneltweaker</string>
+    <string name="config_device_parts_package_activity" translatable="false">com.dsmartapps.root.kerneltweaker.Activities.MainActivity</string>
 </resources>
