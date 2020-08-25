@@ -45,9 +45,11 @@ PRODUCT_PACKAGES += \
     libldacBT_dec \
     libbtconfigstore
 
-# Camera
+# Camera & KernelConfig
 PRODUCT_PACKAGES += \
-    Snap
+    Snap \
+    FullScreen \
+    KernelConfig
 
 # Dex
 PRODUCT_DEXPREOPT_SPEED_APPS += \
